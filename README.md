@@ -1,0 +1,2 @@
+# Interactive-Netflix-Insights-Dashboard
+This Power BI project explores Netflix’s content library using a dataset of titles and cast members. I cleaned and modeled the data, normalized genres into a separate table, and built an interactive dashboard with DAX measures to compare movies and series, track trends over time, identify top-rated titles, and analyze cast and crew statistics. The result is a dynamic, data-driven view of Netflix’s global production patterns.
